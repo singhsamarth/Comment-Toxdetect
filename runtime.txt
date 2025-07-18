@@ -1,6 +1,1 @@
-streamlit
-pandas
-tensorflow
-keras
-numpy
-matplotlib
+python-3.10.12
