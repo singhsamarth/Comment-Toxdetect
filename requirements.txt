@@ -1,6 +1,7 @@
-streamlit==1.22.0
-pandas==2.2.0
-numpy==1.26.4
-tensorflow==2.16.1
-keras==2.16.0
+streamlit
+pandas
+tensorflow
+keras
+numpy
+matplotlib
 
