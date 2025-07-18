@@ -1,23 +1,23 @@
-# Comment-Toxicity-detection
-A deep learning-based project that detects toxic comments from user-generated content. This project leverages advanced Natural Language Processing (NLP) techniques and a bidirectional LSTM (Long Short-Term Memory) model to classify comments as toxic or non-toxic. The model achieves high accuracy, precision, and recall, demonstrating its robustness in identifying harmful language while minimizing false positives. The project also includes a user-friendly frontend built with Streamlit for real-time predictions.
+# Comment-Toxdetect-Model
+A deep learning-based project that detects toxic comments from user-generated content. This project leverages Natural Language Processing (NLP) techniques and a bidirectional LSTM (Long Short-Term Memory) model to classify comments as toxic or non-toxic. The model achieves high accuracy, precision, and recall, demonstrating its robustness in identifying harmful language while minimizing false positives. The project also includes a user-friendly frontend built with Streamlit.
 
-## Explore the Live Project at-https://vassego-comment-toxicity-detection-front-6lj2dm.streamlit.app/
+# Explore the Live Project at-https://comment-toxdetect-l9exdnlcdrwyvzcswvynqp.streamlit.app
 
-## Installation
+# Installation
 
-### Prerequisites
-- Python 3.x installed on your system.
+# Prerequisites
+- Python 3.10.x installed on your system.
 
-### Steps
+# Steps
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/Vassego/Comment-Toxicity-detection.git
+    git clone https://github.com/singhsamarth/Comment-Toxdetect.git
     ```
 
 2. **Navigate to the repository folder**
     ```bash
-    cd comment-toxicity-detection
+    cd Comment-Toxdetect
     ```
 
 3. **Install the required dependencies**
@@ -34,6 +34,5 @@ A deep learning-based project that detects toxic comments from user-generated co
     ```bash
     http://localhost:8501
     ```
-##For more in-depth understanding of the project, please refer to the project report.
     
 
